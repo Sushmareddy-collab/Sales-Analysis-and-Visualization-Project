@@ -27,10 +27,13 @@ Several visualizations were created in Tableau to provide an intuitive understan
 
    a. Sales Trends Over Time
    A line chart was created to show sales trends across months and years.
+   
    b. Sales by Category
    A bar chart visualizing total sales for different product categories (Furniture, Office Supplies, Technology).
+   
    c. Profit by Region (Map Visualization)
    A map visualization was created to show the profit distribution across four main regions (Central, East, West, South).
+   
    d. Sales vs Profit Analysis
    A scatter plot was generated to compare sales and profit across different regions.
 

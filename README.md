@@ -24,16 +24,17 @@ Trends over time were analyzed using date-based sales data to identify peak peri
 
 3. Visualizations in Tableau
 Several visualizations were created in Tableau to provide an intuitive understanding of the dataset:
-  1. Sales Trends Over Time
-  A line chart was created to show sales trends across months and years.
-  2. Sales by Category
-  A bar chart visualizing total sales for different product categories (Furniture, Office Supplies, Technology).
-  3. Profit by Region (Map Visualization)
-  A map visualization was created to show the profit distribution across four main regions (Central, East, West, South).
-  4. Sales vs Profit Analysis
-  A scatter plot was generated to compare sales and profit across different regions.
 
-4. Sales Forecasting (Optional)
+   a. Sales Trends Over Time
+   A line chart was created to show sales trends across months and years.
+   b. Sales by Category
+   A bar chart visualizing total sales for different product categories (Furniture, Office Supplies, Technology).
+   c. Profit by Region (Map Visualization)
+   A map visualization was created to show the profit distribution across four main regions (Central, East, West, South).
+   d. Sales vs Profit Analysis
+   A scatter plot was generated to compare sales and profit across different regions.
+
+5. Sales Forecasting (Optional)
 For future steps, sales forecasting using Exponential Smoothing or ARIMA models can be implemented to predict future sales trends.
 
 # Tools and Technologies
